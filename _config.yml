@@ -9,9 +9,7 @@
 title: Prabhakar Shenoy's playground
 email: prabs7311@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-“Take up one idea. Make that one idea your life; dream of it; think of it; live on that idea. Let the brain, the body, muscles, nerves, every part of your body be full of that idea, and just leave every other idea alone. This is the way to success, and this is the way great spiritual giants are produced.”
-― Swami Vivekananda, Vedanta Philosophy: Lectures by the Swami Vivekananda on Raja Yoga Also Pantanjali's Yoga Aphorisms, with Commentaries, and Glossary of Sa   
-baseurl: "" # the subpath of your site, e.g. /blog
+ When your only tool is a hammer, all problems start looking like nails.
 url: "http://rasayana.github.io" # the base hostname & protocol for your site
 twitter_username: prabs7311
 github_username: rasayana

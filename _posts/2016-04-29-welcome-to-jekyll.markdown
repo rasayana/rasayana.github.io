@@ -1,25 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2016-04-29 13:39:55 +0530
-categories: jekyll update
+title:  "First thought"
+date:   2016-05-02 23:43:24 +0530
+categories: political
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Once up on a time, in a big common people's democracy ( like our current Indian democracy ) in one of it's province ( like current UP / Maharashtra / Bihar / Karnataka ) a Governror ( like our chief ministers ) punished all his subjects ( like all of us living here in Bangalore / Pune / Noida ) for some non bailable crime. the punishment was eat 50 onions or 50 whips to all guilty. few folks opted for eating 50 onions. others opted for 50 whips. after eating 5 onions with lot of difficulty, they opted for 50 whips and people who opted for 50 whips, after getting beaten for 5 times opted for eating 50 onions. and no body could complete punishment because they were switching between 2 options alternatively till they got perished. they did not had any other 3rd option. In India, since independence we had many corrupt / pseudo secular corrupt / fanatic corrupt / small time corrupt / big time corrupt to rule us. we need to vote out all these people. Corruption is our enemy # 1. Eradicate it.
